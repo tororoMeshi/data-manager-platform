@@ -1,0 +1,28 @@
+{
+    "columns": [
+        {
+            "key": "product",
+            "label": "商品名",
+            "inputType": "text",
+            "required": true,
+            "placeholder": "例: ボールペン",
+            "formGroup": "商品情報",
+            "visibleInTable": true
+        },
+        {
+            "key": "stock",
+            "label": "在庫数",
+            "inputType": "number",
+            "required": true,
+            "placeholder": "例: 100",
+            "formGroup": "在庫情報",
+            "visibleInTable": true
+        }
+    ],
+    "addButtonLabel": "商品を追加",
+    "deleteButtonLabel": "削除する",
+    "theme": {
+        "primaryColor": "#007bff",
+        "backgroundColor": "#f5f5f5"
+    }
+}

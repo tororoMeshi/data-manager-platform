@@ -20,6 +20,10 @@
 2. `products.json`や`todo.json`のようにcolumns.jsonを作成
 3. index.htmlを開く（またはGitHub Pagesに公開）
 
+## デモページ
+
+[デモページはこちら](https://tororomeshi.github.io/data-manager-platform/)
+
 ## ライセンス
 
 MIT License

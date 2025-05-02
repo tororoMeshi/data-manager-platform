@@ -1,0 +1,28 @@
+{
+    "columns": [
+        {
+            "key": "task",
+            "label": "タスク名",
+            "inputType": "text",
+            "required": true,
+            "placeholder": "例: 買い物",
+            "formGroup": "TODO項目",
+            "visibleInTable": true
+        },
+        {
+            "key": "deadline",
+            "label": "締切日",
+            "inputType": "date",
+            "required": false,
+            "placeholder": "",
+            "formGroup": "TODO項目",
+            "visibleInTable": true
+        }
+    ],
+    "addButtonLabel": "タスク追加",
+    "deleteButtonLabel": "完了",
+    "theme": {
+        "primaryColor": "#28a745",
+        "backgroundColor": "#ffffff"
+    }
+}

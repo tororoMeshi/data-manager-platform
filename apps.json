@@ -1,0 +1,6 @@
+{
+    "apps": [
+        { "file": "products.json", "name": "商品管理" },
+        { "file": "todo.json", "name": "TODO管理" }
+    ]
+}
